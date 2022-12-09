@@ -29,6 +29,11 @@
     color: #fcbb3a !important;
 }
 
+.nav-item .btn-cta a {
+    width: 70px;
+    height: auto;
+}
+
 /* Hero Section */
 .hero-section {
     margin-top: 20px;
